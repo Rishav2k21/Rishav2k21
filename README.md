@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rishavanand2k21@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1PBhET4Jn2egWXObk80vVhDxBndMnsCAf/view)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1OKrsh8r0T3hRY7V9HfIWUt6uOqu0x8Yu/view?usp=sharing)
 
 - ⚡ Fun fact **I am a cricketer**
 
