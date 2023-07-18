@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [College Helper](https://github.com/ujjwalkirti/helping-you-through-client)
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on [College Helper](https://github.com/ujjwalkirti/helping-you-through-client)
 
 - 🌱 I’m currently learning **frontend(MERN), Backend,competative programming**
 
