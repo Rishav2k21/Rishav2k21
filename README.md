@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN  developer from India</h3>
   
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%2356bcd9&center=true&vCenter=true&width=400&height=50&lines=Web+Developer;Competitive+Programmer;Python+Developer;Freelancer;Content+Creator)](https://vaib.carrd.co)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%2356bcd9&center=true&vCenter=true&width=400&height=50&lines=Web+Developer;Competitive+Programmer;Content+Creator)](https://vaib.carrd.co)
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav2k21&label=Profile%20views&color=0e75b6&style=flat" alt="rishav2k21" /> </p>
