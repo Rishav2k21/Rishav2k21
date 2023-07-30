@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishav</h1>
 <h3 align="center">A passionate MERN  developer from India</h3>
-  
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishav2k21" alt="rishav2k21" /></a> </p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%2356bcd9&center=true&vCenter=true&width=400&height=50&lines=Web+Developer;Competitive+Programmer;Content+Creator)](https://vaib.carrd.co)
 
