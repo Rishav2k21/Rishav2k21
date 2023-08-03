@@ -52,5 +52,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishav2k21&" alt="rishav2k21" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-<h3 align="center">A passionate MERN  developer from India</h3>
+
   <img src="https://github-profile-trophy.vercel.app/?username=rishav2k21" alt="rishav2k21" /></a> </p>
