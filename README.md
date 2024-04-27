@@ -25,8 +25,7 @@
 
 - ⚡ Fun fact **I am a cricketer**
 
-![snake gif]
-(https://github.com/Rishav2k21/Rishav2k21/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Rishav2k21/Rishav2k21/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
